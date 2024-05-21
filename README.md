@@ -6,7 +6,8 @@ Weather App is a simple web application that allows users to check the current w
 
 1. Clone the repository:
 https://github.com/ansh2842/weather-app.git
-2. Install dependencies:
+2. Install dependencies: axios,express,cors,tailwind
+   
 
 ## Usage
 
